@@ -1,4 +1,4 @@
-# Words_Per_Min_Calculator_Internship_Project Done by the Team "WEB WIZARDS UNITED"
+# Words_Per_Min_Calculator_Internship_Project Done by the Team "WEB WIZARDS UNITED" for the company "Varcons Technologies Pvt Ltd" 
 Our Web application "Words_Per_Min_Calculator" is developed to allow users  taking the test to check their typing speed and accuracy. We also have features like E-mail subscription and Storage and capability to store and retrieve the previous test results.
 
 The package was designed in such a way that future modifications can be done easily. The project aimed to achieve the following objectives, and all of them have been satisfied:
